@@ -47,28 +47,51 @@ La variable num a été transformée en binaire :
 1 → Présence de maladie cardiaque (valeurs 1 à 4 regroupées)
 
 🧾 Variables
+
 Variable	Description
+
 age	Âge
+
 sex	Sexe (1 = homme, 0 = femme)
+
 cp	Type de douleur thoracique
+
 trestbps	Pression artérielle au repos
+
 chol	Cholestérol
+
 fbs	Glycémie à jeun > 120
+
 restecg	Résultats ECG
+
 thalach	Fréquence cardiaque maximale
+
 exang	Angine induite par l’effort
+
 oldpeak	Dépression ST
+
 slope	Pente ST
+
 ca	Nombre de vaisseaux majeurs
+
 thal	Type de thalassémie
+
 📁 Structure du projet
+
 El-Idrissi-Riham.ipynb
+
 confusion_matrix.png
+
 confusion_matrix_optimized.png
+
 target_distribution.png
+
 boxplots.png
+
 correlation_heatmap.png
+
 feature_importance.png
+
 ⚙️ Pipeline
 🔍 1. Exploration des données
 
