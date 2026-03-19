@@ -1,7 +1,7 @@
 ❤️ Classification des Maladies Cardiaques — Projet de Machine Learning
 
 Auteure : Riham El Idrissi
-Cours : Projet Final — Apprentissage Automatique
+
 Dataset : Heart Disease — UCI Machine Learning Repository
 
 📌 Présentation
@@ -21,12 +21,19 @@ Entraînement des modèles
 Optimisation
 
 📊 Dataset
+
 Propriété	Détails
+
 Nom	Heart Disease
+
 Source	UCI Machine Learning Repository
+
 ID	45
+
 Créateurs	Andras Janosi, William Steinbrunn, Matthias Pfisterer, Robert Detrano
+
 Année	1989
+
 DOI	10.24432/C52P4X
 
 Le dataset contient des données cliniques pour chaque patient.
